@@ -7,7 +7,7 @@ interface LoveLetterProps {
 
 const LoveLetter = ({ onComplete }: LoveLetterProps) => {
   // Customize these placeholders
-  const recipientName = "My Dearest Love";
+  const recipientName = "MY LOVE";
   const senderName = "Forever Yours";
   const specialDate = "the day we first met";
 
@@ -51,51 +51,40 @@ const LoveLetter = ({ onComplete }: LoveLetterProps) => {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 1.2, duration: 0.8 }}
               >
-                From the moment I saw you, I knew my life would never be the same. 
-                You walked into my world like a gentle sunrise, painting everything 
-                with colors I never knew existed.
-              </motion.p>
+                Bebu, jab hum pehli baar mile the naa, tab mujhe bilkul bhi idea nahi tha ki tum meri zindagi ka itna khoobsurat hissa ban jaogi. Uss din sirf ek si feeling thi par dil ne turant pehchaan liya tha ki tum kuch special ho. Jab Simmi tumhe laayi aur maine pehli baar tumhe dekha andar se bas ek hi awaaz aayi isko hamesha khush rakhna hai.
+                </motion.p>
 
               <motion.p
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 1.6, duration: 0.8 }}
               >
-                Every moment spent with you feels like a precious gift. Your laughter 
-                is my favorite melody, your smile my guiding light. In your eyes, 
-                I've found a home I never want to leave.
-              </motion.p>
+                Phir SnapEats par tumhe dekha aur sach bolun toh wahi se pyaar shuru ho gaya tha. Tumhara pehla text aaya aur dil literally pagal ho gaya tha. Aisa laga jaise zindagi khud keh rahi ho, yeh chahiye, bas yehi chahiye. 
+                </motion.p>
 
               <motion.p
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 2, duration: 0.8 }}
               >
-                I remember {specialDate} as if it were yesterday—the nervous 
-                butterflies, the way time seemed to stop when our eyes met. Little 
-                did I know that moment would become the beginning of the most 
-                beautiful chapter of my life.
-              </motion.p>
+                Jab hum mile the tum ghar se lad ke sirf mujhse milne aayi thi. Uss din tum itni sundar lag rahi thi jaise sirf mere liye tayaar hoke aayi ho. Aur woh raaten 4 baje tak saath rehna, door se balcony se ek dusre ko dekhna, bina dikhe bhi ek-dusre ko pyaara lagna. Tumhara kehna ki main sundar lagta hoon vahan se aaj bhi yaad hai mujhe.
+                </motion.p>
 
               <motion.p
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 2.4, duration: 0.8 }}
               >
-                Thank you for being my strength when I was weak, my joy when I 
-                was sad, and my peace when the world felt chaotic. You are not 
-                just my love—you are my best friend, my confidant, my everything.
-              </motion.p>
+                Phir woh “I like you” nahi balki asli wala “I love you” jo sirf lafz nahi ek vaada tha. Roz milna hasna sab kuch share karna, first month ke surprises, hamari regular meets har pal itna perfect tha jaise kisi kahaani ka sabse khoobsurat chapter. Aur woh moments lightning wala pal, football ground ke paas woh tree aur uske girte hue petals jaise upar se blessings baras rahi ho hum dono par.
+                </motion.p>
 
               <motion.p
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 2.8, duration: 0.8 }}
               >
-                On this special day, I want you to know that my love for you grows 
-                deeper with every passing second. I dream of countless more 
-                birthdays together, each one more beautiful than the last.
-              </motion.p>
+                Bebu, tumhare saath sab kuch itna natural aur pyaara lagta hai ki lagta hi nahi hum abhi mile hain. Tum meri smile, meri oxygen ho, meri jaan ho. Tumhare saath zindagi sirf jeena nahi lagti mehsoos hone lagti hai real love lagta hai ki haan pheli baar pyaar hua ar both hua. Chahe duniya idhar udhar ho jaaye mera dil hamesha tumhare paas hi rahega. I love you, aaj se bhi zyada, aur kal se bhi zyada and Yes, "Forever means Forever".💖
+                </motion.p>
 
               <motion.p
                 initial={{ opacity: 0, y: 20 }}

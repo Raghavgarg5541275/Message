@@ -7,11 +7,11 @@ interface HeartMessageProps {
 
 const HeartMessage = ({ onComplete }: HeartMessageProps) => {
   const messages = [
-    "You are the reason I believe in magic.",
-    "Every love song makes sense because of you.",
-    "With you, I am home.",
-    "You are my today and all of my tomorrows.",
-    "In a sea of people, my eyes will always search for you.",
+    "Tum ho isliye har cheez thodi si zyada khoobsurat lagti hai.",
+    "Tumhari muskurahat mein hi meri saari duniya bas jaati hai.",
+    "Tum saath ho toh har din ek pyaari si kahaani lagti hai.",
+    "Tum mere aaj bhi ho, aur har aane wale kal bhi.",
+    "Hazaar logon ke beech bhi, meri nazar sirf tumhe dhoondti hai.",
   ];
 
   return (

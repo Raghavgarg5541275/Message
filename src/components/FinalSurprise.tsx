@@ -159,17 +159,20 @@ const FinalSurprise = () => {
             transition={{ delay: 0.8 }}
             className="paper-texture rounded-xl p-8 md:p-12 shadow-romantic"
           >
-            <p className="font-serif text-lg md:text-xl text-foreground/90 leading-relaxed mb-6">
-              My love, you have reached the end of this little journey I created for you.
-              But know that our real journey together is just beginning.
-            </p>
-            <p className="font-serif text-lg md:text-xl text-foreground/90 leading-relaxed mb-6">
-              Every day with you is a gift, and I promise to cherish you, 
-              support you, and love you with every fiber of my being.
-            </p>
-            <p className="font-cursive text-2xl md:text-3xl text-primary mt-8">
-              Happy Birthday, My Everything!
-            </p>
+           <p className="font-serif text-lg md:text-xl text-foreground/90 leading-relaxed mb-6">
+  My love, you’ve reached the end of this little journey I created just for you.
+  But what we share is only beginning, and it’s the most beautiful story I’ll ever be a part of.
+</p>
+
+<p className="font-serif text-lg md:text-xl text-foreground/90 leading-relaxed mb-6">
+  Every day with you feels like a blessing I never knew I needed.
+  I promise to cherish you in every moment, support you in every dream,
+  and love you with my whole heart, always.
+</p>
+
+<p className="font-cursive text-2xl md:text-3xl text-primary mt-8">
+  Happy Birthday, My Everything ❤️
+</p>
           </motion.div>
 
           <motion.div

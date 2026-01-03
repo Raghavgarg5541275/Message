@@ -15,7 +15,7 @@ interface TimeElapsed {
 
 const TimeCounter = ({ onComplete }: TimeCounterProps) => {
   // Set your relationship start date here
-  const startDate = new Date("2023-01-15T00:00:00");
+  const startDate = new Date("2025-04-24T04:26:00");
   
   const [timeElapsed, setTimeElapsed] = useState<TimeElapsed>({
     days: 0,
